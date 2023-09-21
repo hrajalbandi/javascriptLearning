@@ -4,4 +4,4 @@ JAVASCRIPT LEARNING
 2. Object operations (app2.js)
 3. Array of Objects Operations (app3.js)
 
-NOTE : rename the appX.js file accordingly to see the outputs
+NOTE : Uncomment the respective appX.js source path in index.html to see the corresponding output. 
